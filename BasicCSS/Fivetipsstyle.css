@@ -1,0 +1,25 @@
+p{
+              color: green;
+              font-size: 20px;
+/*              font-family: sans-serif;*/
+       }
+h1{
+       font-size: 40px;
+/*       font-family: sans-serif;*/
+}
+h1,p{
+       font-family: sans-serif;
+}
+article{
+       width: 1000px;
+}
+header{
+       height:400px ;
+}
+main{
+     border-width: 5px;
+    border-left-width: 0;
+     border-color: #ff6060;
+     border-style: dotted;
+     border-radius: 50px;
+}

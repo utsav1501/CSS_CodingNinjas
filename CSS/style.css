@@ -1,0 +1,39 @@
+/* h1{
+    color:#00ff00; 
+}
+p{
+    color: brown;
+}
+button{
+    color:blue;
+    background-color: peru;
+}
+body{
+    background-color: #1F1717;
+} */
+ 
+/* Universal Selector */
+*{
+    color: blueviolet;
+    /* background-color: aqua; */
+}
+/* Element selector */
+h1{
+    color: indianred;
+}
+
+/* id selector */
+#headingOne{ 
+    color: orchid;
+}
+#headingTwo{
+    color:rebeccapurple;
+}
+/* #headingThree{
+    color: magentaf;
+} */
+
+/* Class Selector */
+.myClass{
+    color: darkgreen;
+}

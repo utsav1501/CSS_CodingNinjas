@@ -1,0 +1,13 @@
+     /*Type Selector*/
+p{
+	color: blue;
+}
+
+	/*Class Selector*/
+.color-red{
+	color: red;
+}
+
+#para-id{
+	color: green;
+}

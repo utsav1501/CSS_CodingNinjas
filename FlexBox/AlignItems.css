@@ -1,0 +1,42 @@
+#container{
+	height: 500px;
+	width: 500px;
+	background-color: lightgray;
+	display: flex;
+	flex-direction: row;
+/*	column;*/
+	justify-content: flex-start;
+
+	align-items:flex-end;
+	
+/*	baseline;*/
+/*	stretch;*/
+/*	center;*/
+/*	flex-end;*/
+/*	flex-start; */
+}
+
+#container div{
+	height: 100px;
+/*	auto;*/
+
+	max-height: 400px;
+
+	width:100px;
+/*	auto;*/
+}
+
+#div1{
+	background-color: cyan;
+/*	margin: 10px;*/
+}
+
+#div2{
+	background-color: red;
+/*	margin: 30px;*/
+}
+
+#div3{
+	background-color: grey;
+/*	margin: 50px;*/
+}

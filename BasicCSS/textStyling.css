@@ -1,0 +1,9 @@
+#sample-para{
+	font-size: 20px;
+	color: darkblue;
+	font-weight:700;
+	text-align: justify;
+	line-height: 30px;
+	text-transform: lowercase;
+	text-decoration: underline;
+}

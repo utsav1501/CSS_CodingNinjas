@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="specificityofSelectors.css">
+	<title>Demo</title>
+</head>
+<body>
+	<p>Paragraph - Type</p>
+	<p class="color-red">Paragraph - class</p>
+	<p id="para-id"class="color-red">Paragraph - ID</p>
+	<!-- the upper p tag has both class as well as id and in css file type , class and id all the selectors applied to see the specificity of selectors -->
+
+	<p id="para-id"class="color-red" style="color:cyan;">Paragraph - ID</p>
+
+
+
+<!-------------------- precedence of selectors -------->
+		<!-- (1)Inline selectors-->
+		<!-- (2)ID selectors -->
+		<!-- (3)Class selectors -->
+		<!-- (4)Type selectors -->
+</body>
+</html>

@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+}
+.loader{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-left: 10px solid #6BE3CD;
+    border-top:10px solid #9bd357;
+    border-right: 10px solid black;
+    border-bottom: 10px solid #a3b18a;
+    /* background-color: pink; */
+    animation: loadAnimate;
+    animation: loadAnimate 2s linear 0s infinite normal;
+}
+
+@keyframes  loadAnimate {
+   from{
+    transform: rotate(0deg);
+   } 
+   to{
+    transform: rotate(360deg);
+   }
+}

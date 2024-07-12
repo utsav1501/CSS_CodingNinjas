@@ -1,0 +1,56 @@
+/* p{
+    text-align: right;
+    text-align:center;
+} */
+
+/* h1{
+    text-align: right;
+    text-align: center;
+    text-decoration: underline; 
+    /* text-decoration: overline;
+    text-decoration: green wavy line-through;
+} */
+
+/* for removing underline of anchor tag */
+/* a{
+    text-decoration: none;
+}
+
+#h1{
+    font-weight:normal; 
+    font-weight: 100;
+}
+#h2{
+    font-weight: bold;
+    font-weight: 250;
+}
+#h3{
+    font-weight: lighter;
+    font-weight: 550;
+}
+#h4{
+    font-weight: 700;
+}
+
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+} */
+
+#one{
+    font-size: 30px;
+    line-height: 50px;
+    /* text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize; */
+    text-transform: none;/*normal*/
+}
+#three{
+    font-size: 10px;
+}
+#two{
+    font-size: 20px;
+}

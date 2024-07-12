@@ -1,0 +1,28 @@
+#div1{
+	width: 60%;
+	border: 1px solid black;
+}
+
+@media screen and (max-width:900px){  
+	#div1{
+		width: 90%;  
+		/*If width is less than 900px then enter here*/
+	}
+}
+
+@media screen and (max-width:750px){  
+	#div1{
+		width: 60%;  
+		/*If width is less than 750px then enter here*/
+	}
+}
+
+@media screen and (max-width:600px){
+	#div1{
+		width: 100%;
+	}
+}
+
+            
+/*if we write max-width:600 to upper side and if the screen size is 
+ 800px then max-width of 600px will never apply*/

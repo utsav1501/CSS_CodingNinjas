@@ -1,0 +1,10 @@
+:body{
+	--customHeight:100px;
+}
+div{
+		margin: 100px;
+		border: 1px solid white;
+		background-color: seagreen;
+		width: 100px;
+		height: var(--customHeight, 200px);
+	}

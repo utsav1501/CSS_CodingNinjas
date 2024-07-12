@@ -1,0 +1,45 @@
+#div1{
+/*	height: 200px;*/
+/*	height: 100vh;*/
+	height: 4rem;
+	width: 6rem;
+/*	width: 100vw;*/
+/*	background-color: #005c8b;*/
+/*	background-color: rgb(56,82,79);*/
+background-color:rgba(0, 0, 255, 1);
+
+/*border-width: 2px 4px 6px 8px;*/
+
+/*border-width: 4px;
+border-style: solid;
+border-color: black;
+*/
+/*shorthand way of writing all these are*/
+border: 4px solid black;
+border-radius: 10px;
+
+}
+
+/*#div2{
+	height: 100px;
+	width: 150px;
+	background-color: cyan;
+}*/
+
+/*We can specify the height and width of child according 
+to its parent*/
+
+#div2{
+	height: 50%;
+	width: 50%;
+	background-color: cyan;
+
+}
+/*html{
+	font-size:16px;
+}*/
+#sample-para{
+/*       border: 2px solid  black;*/
+       border-left: 4px solid black;
+       border-style: dotted;
+}

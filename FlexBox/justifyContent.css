@@ -1,0 +1,29 @@
+#container{
+	height: 500px;
+	width: 500px;
+	background-color: lightgray;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+/*	space-around;*/
+/*	center;*/
+/*	flex-end;*/
+/*	flex-start;*/
+}
+
+#container div{
+	height: 100px;
+	width: 100px;
+}
+
+#div1{
+	background-color: cyan;
+}
+
+#div2{
+	background-color: red;
+}
+
+#div3{
+	background-color: grey;
+}

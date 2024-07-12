@@ -1,0 +1,37 @@
+/*By doing this changes reflect to everywhere in h4 heading...
+so we have to make a class and use this class wherever we have to apply changes*/
+
+/*
+h4{
+	text-transform: uppercase;
+}*/
+h1,p{
+       font-family: sans-serif;
+}
+
+/*.uppercase{
+	text-transform: uppercase;
+}
+.cursive{
+	font-family: cursive;
+}*/
+
+/*here below it will first search for list items and then it will
+search for h4 inside list items and do changes inside this*/
+li h4{
+	font-family: cursive;
+	text-transform: uppercase;
+}
+
+#blog-desciption{
+	color: #8f2323;
+}
+#site-desc p{
+	color: red;
+}
+/*anchor tag is more specific than p tag ,so if we want to make
+change in a tag then we have to specially apply rules to it*/
+
+#blog-title:hover{
+	color: orange;
+}

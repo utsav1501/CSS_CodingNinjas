@@ -1,0 +1,44 @@
+#div1{
+    width:32%;
+    height:300px;
+    margin:0.44%;
+/*    backcolor:#ff8989*/
+  background-color: #ff8989;
+}
+#div2{
+    width:32%;
+    height:300px;
+    margin:0.44%;
+    background-color:#88f7ce;
+}
+#div3{
+    width:32%;
+    height:300px;
+    margin:0.44%;
+    background-color:#e29df2;
+}
+
+@media screen and (min-width:600px){
+  #div1{
+    display: inline-block;
+  }
+  #div2{
+    display: inline-block;
+  }
+  #div3{
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width:600px){
+/*isme enter tb krega jb width 600px se km hoga*/
+  #div1{
+    width: 100%;
+  }
+  #div2{
+    width: 100%;
+  }
+  #div3{
+    width: 100%;
+  }
+}

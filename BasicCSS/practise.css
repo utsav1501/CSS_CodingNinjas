@@ -1,0 +1,13 @@
+#div2{
+  border: 1px solid black;
+  height:80px;
+  width:300px;
+  background-color: lightblue;
+  padding:40px;
+}
+#div1{
+  border: 1px solid black;
+  height:80px;
+  width:300px;
+  background-color: lightblue;
+}

@@ -1,0 +1,150 @@
+/* #box{
+    background-color: rgb(167, 55, 55);
+} */
+/* .heading{
+    color: cadetblue;
+} */
+
+/* h1,h2,h3{
+    color: cadetblue;
+}
+
+button{
+    background-color: green;
+} */
+
+/* practise set2 */
+/* 
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px; 
+
+} */
+
+/* Practise set 3 */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+/* HomeWork */
+/* #outer{
+    width: 80px;
+    height: 200px;
+    background-color: black;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    
+}
+
+#firstSignal{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 20px;
+    padding: 3px; 
+}
+
+#secondSignal{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: yellow;
+    padding: 3px;
+    margin-top: 20px;
+}
+
+#thirdSignal{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: green;
+    padding: 3px;
+    margin-top: 20px;
+} */
+
+/* amazon nav bar */
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:#f08804 ;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+} */
+
+/* Practise set 4 */
+
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:#f08804 ;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration:none;
+}
+
+footer{
+    color: black;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#content{
+    height: 723px;
+}
+
+footer{
+    background-color: #0f1111;
+    color:aliceblue;
+}
